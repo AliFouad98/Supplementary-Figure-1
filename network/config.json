@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Truong"
+  },
+  "text": {
+    "more": "Covid-19 was confirmed to be the largest pandemic in the past 100 years in both conformed cases and death cases. The disease is highly contagious through direct contact, through surface, and air. Therefore, determining the source of transmission is extremely difficult. Our study collected travel history of patients with confirmed Covid-19 infection in Danang and their direct contact. As a result, we map the relationships between the patients and their indirect relationships through the locations.\nIn the network diagram we mark the two clusters with the highest infection rates, Danang Hospital (in orange), Lung Hospital cluster (in purple), and patients intersecting between these clusters are in red.",
+    "intro": "The figure aims to describe the direct association of patients with Covid-19 infection and their indirect relevance through travel history.",
+    "title": "Relationship between cases of covid-19 infection in Danang"
+  },
+  "legend": {
+    "edgeLabel": "Contact",
+    "colorLabel": "Mudarity",
+    "nodeLabel": "users"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Label",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": "Label"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
