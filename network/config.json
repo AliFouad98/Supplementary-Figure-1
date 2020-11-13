@@ -8,7 +8,7 @@
     "text": "Truong"
   },
   "text": {
-    "more": "Covid-19 was confirmed to be the largest pandemic in the past 100 years in both conformed cases and death cases. The disease is highly contagious through direct contact, through surface, and air. Therefore, determining the source of transmission is extremely difficult. Our study collected travel history of patients with confirmed Covid-19 infection in Danang and their direct contact. As a result, we map the relationships between the patients and their indirect relationships through the locations.\nIn the network diagram we mark the two clusters with the highest infection rates, Danang Hospital (in orange), Lung Hospital cluster (in purple), and patients intersecting between these clusters are in red.",
+    "more": "Covid-19 was confirmed to be the largest pandemic in the past 100 years in both conformed cases and death cases. The disease is highly contagious through direct contact, through surface, and air. Therefore, determining the source of transmission is extremely difficult. Our study collected travel history of patients with confirmed Covid-19 infection in Danang and their direct contact. As a result, we map the relationships between the patients and their indirect relationships through the locations.\nIn the network diagram we mark the two clusters with the highest infection rates, Danang Hospital (in orange), Lung Hospital cluster (in purple), and patients intersecting between these clusters are in red. the smaller clusters were marked by by gray",
     "intro": "The figure aims to describe the direct association of patients with Covid-19 infection and their indirect relevance through travel history.",
     "title": "Relationship between cases of covid-19 infection in Danang"
   },
